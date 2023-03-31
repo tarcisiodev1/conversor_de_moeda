@@ -1,1 +1,3 @@
 Em desenvolvimento...
+Melhorias:
+-Consumindo api 
