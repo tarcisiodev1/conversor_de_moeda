@@ -1,3 +1,4 @@
 Em desenvolvimento...
 Melhorias:
--Consumindo api 
+- Bootstrap
+- Consumindo api 
